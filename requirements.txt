@@ -1,0 +1,6 @@
+requests==2.18.4
+pandas==0.22.0+0.ga00154d.dirty
+bokeh==0.12.14
+numpy==1.14.3
+seaborn==0.8.1
+matplotlib==2.1.1
